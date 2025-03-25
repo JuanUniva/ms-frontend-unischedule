@@ -11,7 +11,7 @@ Este proyecto es una aplicación React construida con Vite y TypeScript.
 
 1. Clona el repositorio:
 ```bash
-git clone [url-del-repositorio]
+git clone https://github.com/JuanUniva/ms-frontend-unischedule.git
 cd ms-frontend-unischedule
 ```
 
